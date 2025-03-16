@@ -3317,7 +3317,7 @@ footer{
     
     .texto-cabecalho{
         width: 100%;
-        padding: 25px 0px 0 45px;
+        padding: 65px 0px 0 45px;
         text-align: left;
         color: white;
         display: inline-block;
@@ -3378,7 +3378,7 @@ footer{
         transform: scale(0.6);
         padding: 0px;
         left: 0;
-        margin-left: 25px;
+        margin-left: 46px;
         margin-top: 630px;
     }
     
@@ -3531,17 +3531,17 @@ footer{
     
     .circulo-laranja{
         background-color: #F28705;
-        padding: 100px 100px;
+        padding: 110px 110px;
         position: absolute;
         border-radius: 50%;
-        right: 50px;
-        margin-top: 720px;
+        right: 42px;
+        margin-top: 685px;
     }
     
     .img-forma-trabalho{
         position: absolute;
         right: 10px;
-        padding-top: 502px;
+        transform: scale(0.4);
     }
     
     /* Quarta Section "Meus Serviços" */
@@ -3709,8 +3709,8 @@ footer{
         transform: scale(0.55);
         position: absolute;
         transform-origin: left;
-        margin: 750px 0 0 0;
-        padding-left: 15px;
+        margin: 700px 0 0 0;
+        padding-left: 35px;
     }
     
     /* Sexta Section "Animação JS" */
@@ -3918,9 +3918,9 @@ footer{
     
     .cau-conteudo h1{
         font-family: "Montserrat";
-        font-size: 48px;
+        font-size: 35px;
         color: #FFFFFF;
-        line-height: 55px;
+        line-height: 40px;
         margin: 15px 0px;
     }
     
@@ -3928,7 +3928,7 @@ footer{
         font-family: "Roboto";
         color: #FFFFFF;
         line-height: 25px;
-        margin: 15px 28px 15px 0px;
+        margin: 15px 28px 25px 0px;
     }
     
     .cau-img img{
@@ -3938,6 +3938,12 @@ footer{
         display: block;
         transform-origin: center;
         }
+
+    .cau-conteudo button{
+        font-size: 15px;
+        padding: 20px 25px;
+        margin: 0 7%;
+    }
     
     /* Footer */
     
