@@ -21,7 +21,7 @@ header{
     position: absolute;
     right: 0;
     transform-origin: right;
-    top: 7px;
+    top: 8px;
 }
 
 .texto-cabecalho{
@@ -2633,6 +2633,7 @@ footer{
         width: 50%; /* ou 50% do tamanho original */
         display: block;
         margin: 0 200px;
+        top: 0px;
     }
     
     .texto-cabecalho{
