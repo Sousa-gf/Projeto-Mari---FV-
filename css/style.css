@@ -3535,12 +3535,13 @@ footer{
         position: absolute;
         border-radius: 50%;
         right: 42px;
-        margin-top: 685px;
+        margin-top: 715px;
     }
     
     .img-forma-trabalho{
         position: absolute;
         right: 10px;
+        margin-top: 532px;
         transform: scale(0.4);
     }
     
