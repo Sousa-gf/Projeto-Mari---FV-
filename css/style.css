@@ -3120,6 +3120,7 @@ footer{
     .card-m-a h2{
         font-family: "Montserrat";
         margin: 10px 5px;
+        width: 50%;
     }
     
     .card-m-a p{
@@ -3264,13 +3265,13 @@ footer{
     }
     
     .logo-footer img{
-        margin: 40px 0 0 15%;
+        margin: 0px 0 0 15%;
         width: 100%;
         transform: scale(1.3);
     }
     
     .div-footer{
-        margin: 10px 10% 40px 20%;
+        margin: 0px 10% 40px 20%;
     }
     
     .icons-footer{
@@ -3953,13 +3954,13 @@ footer{
     }
     
     .logo-footer img{
-        margin: 70px 0 0 15%;
+        margin: 10px 0 0 15%;
         width: 100%;
         transform: scale(1.3);
     }
     
     .div-footer{
-        margin: 30px 10% 80px 20%;
+        margin: 0px 10% 40px 20%;
     }
     
     .icons-footer{
@@ -3970,6 +3971,6 @@ footer{
     
     .img-footer{
         padding: 11px 5px;
-        margin: 0px 10px;
+        margin: 0px 7px;
     }
 }
