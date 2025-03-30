@@ -2745,7 +2745,7 @@ footer{
 
     #img-parallax-1{
         width: 100%;
-        height: 30%;
+        height: 25%;
         margin: 3% 0%;
         position: absolute;
         background-image: url(img/Vegetais/ABO02_LP.png);
@@ -2754,37 +2754,40 @@ footer{
         background-position: left;
         background-position-x: 50px;
         background-position-y: 50px;
+        background-size: 13%;
     }
     
     #img-parallax-2{
         width: 100%;
-        height: 35%;
+        height: 25%;
         margin: 3% 0%;
         position: absolute;
         background-image: url(img/Vegetais/BROCO01_LP.png);
         background-repeat: no-repeat;
         background-attachment: fixed;
         background-position: left;
-        background-position-x: 150px;
-        background-position-y: 250px;
+        background-position-x: 70px;
+        background-position-y: 300px;
+        background-size: 13%;
     }
     
     #img-parallax-3{
         width: 100%;
-        height: 35%;
+        height: 25%;
         margin: 3% 0%;
         position: absolute;
         background-image: url(img/Vegetais/CEN\ 01_LP.png);
         background-repeat: no-repeat;
         background-attachment: fixed;
         background-position: left;
-        background-position-x: 300px;
-        background-position-y: 150px;
+        background-position-x: 100px;
+        background-position-y: 200px;
+        background-size: 13%;
     }
     
     #img-parallax-4{
         width: 100%;
-        height: 35%;
+        height: 25%;
         margin: 3% 0%;
         position: absolute;
         background-image: url(img/Vegetais/ABO\ 01_LP.png);
@@ -2793,32 +2796,35 @@ footer{
         background-position: right;
         background-position-x: 300px;
         background-position-y: 250px;
+        background-size: 13%;
     }
     
     #img-parallax-5{
         width: 100%;
-        height: 35%;
+        height: 25%;
         margin: 3% 0%;
         position: absolute;
         background-image: url(img/Vegetais/BROCO02_LP.png);
         background-repeat: no-repeat;
         background-attachment: fixed;
         background-position: right;
-        background-position-x: 50px;
-        background-position-y: 400px;
+        background-position-x: 350px;
+        background-position-y: 370px;
+        background-size: 13%;
     }
     
     #img-parallax-6{
         width: 100%;
-        height: 35%;
+        height: 25%;
         margin: 3% 0%;
         position: absolute;
         background-image: url(img/Vegetais/CEN\ 02_LP.png);
         background-repeat: no-repeat;
         background-attachment: fixed;
         background-position: right;
-        background-position-x: 100px;
-        background-position-y: 200px;
+        background-position-x: 340px;
+        background-position-y: 160px;
+        background-size: 13%;
     }
         
     /* Terceira Section "Minha forma de trabalho" */
@@ -3344,7 +3350,7 @@ footer{
         background-color: #008C24;
         color: white;
         border-radius: 15px;
-        padding: 15px 70px;
+        padding: 15px 55px;
         margin: 20px 0px;
         font-family: "Poppins";
         font-weight: bold;
@@ -3432,73 +3438,79 @@ footer{
         background-repeat: no-repeat;
         background-attachment: fixed;
         background-position: left;
-        background-position-x: 50px;
-        background-position-y: 50px;
+        background-position-x: 30px;
+        background-position-y: 100px;
+        background-size: 13%;
     }
     
     #img-parallax-2{
         width: 100%;
-        height: 35%;
+        height: 30%;
         margin: 3% 0%;
         position: absolute;
         background-image: url(img/Vegetais/BROCO01_LP.png);
         background-repeat: no-repeat;
         background-attachment: fixed;
         background-position: left;
-        background-position-x: 150px;
-        background-position-y: 250px;
+        background-position-x: 50px;
+        background-position-y: 300px;
+        background-size: 13%;
     }
     
     #img-parallax-3{
         width: 100%;
-        height: 35%;
+        height: 30%;
         margin: 3% 0%;
         position: absolute;
         background-image: url(img/Vegetais/CEN\ 01_LP.png);
         background-repeat: no-repeat;
         background-attachment: fixed;
         background-position: left;
-        background-position-x: 300px;
-        background-position-y: 150px;
+        background-position-x: 70px;
+        background-position-y: 200px;
+        background-size: 13%;
     }
     
     #img-parallax-4{
         width: 100%;
-        height: 35%;
+        height: 30%;
         margin: 3% 0%;
         position: absolute;
         background-image: url(img/Vegetais/ABO\ 01_LP.png);
         background-repeat: no-repeat;
         background-attachment: fixed;
         background-position: right;
-        background-position-x: 300px;
-        background-position-y: 250px;
+        background-position-x: 250px;
+        background-position-y: 230px;
+        background-size: 13%;
     }
     
     #img-parallax-5{
         width: 100%;
-        height: 35%;
+        height: 30%;
         margin: 3% 0%;
         position: absolute;
         background-image: url(img/Vegetais/BROCO02_LP.png);
         background-repeat: no-repeat;
         background-attachment: fixed;
         background-position: right;
-        background-position-x: 50px;
-        background-position-y: 400px;
+        background-position-x: 300px;
+        background-position-y: 350px;
+        background-size: 13%;
     }
     
     #img-parallax-6{
         width: 100%;
-        height: 35%;
+        height: 30%;
         margin: 3% 0%;
         position: absolute;
         background-image: url(img/Vegetais/CEN\ 02_LP.png);
         background-repeat: no-repeat;
         background-attachment: fixed;
         background-position: right;
-        background-position-x: 100px;
-        background-position-y: 200px;
+        background-position-x: 300px;
+        background-position-y: 150px;
+        background-size: 13%;
     }
         
     /* Terceira Section "Minha forma de trabalho" */
