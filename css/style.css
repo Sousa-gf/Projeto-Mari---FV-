@@ -3518,7 +3518,7 @@ footer{
     .forma-trabalho{
         width: 100%;
         background-color: #FFFAF3;
-        padding-bottom: 350px;
+        padding-bottom: 366px;
     }
     
     .lista-forma-trabalho h1{
@@ -3544,18 +3544,18 @@ footer{
     
     .circulo-laranja{
         background-color: #F28705;
-        padding: 110px 110px;
+        padding: 125px;
         position: absolute;
         border-radius: 50%;
-        right: 42px;
-        margin-top: 715px;
+        right: 58px;
+        margin-top: 705px;
     }
     
     .img-forma-trabalho{
         position: absolute;
-        right: 10px;
+        right: 25px;
         margin-top: 532px;
-        transform: scale(0.4);
+        transform: scale(0.45);
     }
     
     /* Quarta Section "Meus Serviços" */
