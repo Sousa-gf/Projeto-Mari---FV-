@@ -3109,11 +3109,13 @@ footer{
     }
     
     /* Setima Section "Modalidades de Atendimento" */
+    
     .mod-atendimento h1{
         font-family: "Montserrat";
         font-size: 25px;
         width: 100%;
-        margin: 50px 15px 0 15px;
+        margin: 50px 25px 0 110px;
+        transform-origin: center;
     }
     
     .card-m-a{
@@ -3139,6 +3141,7 @@ footer{
         font-family: "Montserrat";
         background-color: #FFFAF3;
         line-height: 25px;
+        padding: 20px;
     }
     
     .dep-1{
@@ -3152,13 +3155,14 @@ footer{
     }
     
     .depoimentos h1{
-        font-size: 40px;
+        font-size: 32px;
         margin-top: 40px;
         margin-bottom: 20px;
     }
     
     .depoimentos p{
         color: #6E6E6E;
+        font-size: 14px;
     }
     
     /* Carrosel */
@@ -3535,11 +3539,11 @@ footer{
     }
     
     .lista-forma-trabalho{
-        width: 80%;
-        color: #777777;
+        width: 90%;
+        color: #242424;
         font-family: "Montserrat";
         line-height: 22px;
-        margin: 0px 0px 0px 50px;
+        margin: 0px 0px 0px 25px;
     }
     
     .circulo-laranja{
@@ -3791,20 +3795,19 @@ footer{
     /* Setima Section "Modalidades de Atendimento" */
     
     .mod-atendimento{
-        display: flex;
-        flex-wrap: wrap;
+        display: inline;
     }
     
     .mod-atendimento h1{
         font-family: "Montserrat";
         font-size: 30px;
         width: 100%;
-        margin: 50px 50px;
+        margin: 30px 50px;
     }
     
     .card-m-a{
-        width: 30%;
-        margin: 50px 0px 0 5px;
+        width: 100%;
+        margin: 0px 0px 0 5px;
         line-height: 22px;
         transform: scale(0.7);
     }
@@ -3828,11 +3831,12 @@ footer{
         font-family: "Montserrat";
         background-color: #FFFAF3;
         line-height: 25px;
+        padding: 20px;
     }
     
     .dep-1{
         margin: 0px 40px;
-        padding: 50px 0px;
+        padding: 0px 0px 50px 0px;
     }
     
     .dep-2{
@@ -3841,13 +3845,14 @@ footer{
     }
     
     .depoimentos h1{
-        font-size: 40px;
+        font-size: 32px;
         margin-top: 40px;
         margin-bottom: 20px;
     }
     
     .depoimentos p{
         color: #6E6E6E;
+        font-size: 14px;
     }
     
     /* Carrosel */
@@ -3927,12 +3932,13 @@ footer{
     .cau-conteudo{
         width: 100%;
         margin: 0px 20px;
-        padding: 50px 0px;
+        padding: 50px 20px;
+        align-items: center;
     }
     
     .cau-conteudo h1{
         font-family: "Montserrat";
-        font-size: 35px;
+        font-size: 32px;
         color: #FFFFFF;
         line-height: 40px;
         margin: 15px 0px;
@@ -3943,6 +3949,8 @@ footer{
         color: #FFFFFF;
         line-height: 25px;
         margin: 15px 28px 25px 0px;
+        font-size: 14px;
+        text-align: justify;
     }
     
     .cau-img img{
